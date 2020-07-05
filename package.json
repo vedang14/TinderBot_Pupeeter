@@ -1,0 +1,22 @@
+{
+  "name": "tinderbot_pupeeter",
+  "version": "1.0.0",
+  "description": "TinderBot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node OTPLogin.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vedang bhardwaj",
+  "license": "ISC",
+  "dependencies": {
+    "audio-loader": "^1.0.3",
+    "audio-play": "^2.2.1",
+    "node-notifier": "^7.0.1",
+    "play-sound": "^1.1.3",
+    "prompt": "^1.0.0",
+    "prompts": "^2.3.2",
+    "puppeteer": "^5.0.0",
+    "toppop-cities": "^1.0.1"
+  }
+}
